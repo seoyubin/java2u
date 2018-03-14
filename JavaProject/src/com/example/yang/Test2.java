@@ -1,9 +1,10 @@
 package com.example.yang;
 
-public class Tast1 {
+public class Test2 {
 
 	public static void main(String[] args) {
-		System.out.println("hello world");
+		// TODO Auto-generated method stub
+
 	}
 
 }
